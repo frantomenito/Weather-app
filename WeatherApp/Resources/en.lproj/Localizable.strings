@@ -1,0 +1,21 @@
+"Clear" = "Clear";
+"Cloudy" = "Cloudy";
+"Drizzle" = "Drizzle";
+"Possible Drizzle" = "Possible Drizzle";
+"Windy" = "Windy";
+"Rain" = "Rain";
+"Humid and Partly Cloudy" = "Humid and Partly Cloudy";
+"Humid and Mostly Cloudy" = "Humid and Mostly Cloudy";
+"Overcast" = "Overcast";
+"Mostly Cloudy" = "Mostly Cloudy";
+"Partly Cloudy" = "Partly Cloudy";
+
+"Edit" = "Edit";
+"Done" = "Done";
+"Now" = "Now";
+"Today" = "Today";
+
+"Current Location" = "Current Location";
+
+"title.text" = "No locations!";
+"description.text" = "Try adding new location or enabling tracking your current location in settings";
